@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Sans:wght@300&family=Open+Sans:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Noto+Sans:wght@300&family=Open+Sans:ital,wght@1,500&family=Roboto:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulocontato {
+    width: 100%;
+    height: 200px;
+    font-size: 50px;
+    background-color: rgb(170, 49, 49);
+    text-align: center; 
+    padding-top: 50px; 
+}
+.titulocontato p {
+    font-size: 20px;
+    margin-left: 50px;
+}
+.bossform {
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.boxform {
+    width: 25%;
+
+}
+
+input, textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;    
+}
+
+button {
+    background-color: aqua;
+    border-color: rgb(48, 6, 235);
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Merriweather', serif;
+}
+.rodape {
+    background-color: rgba(8, 89, 114, 0.603);
+    font-family: 'Merriweather', serif;
+    border-radius: 0.5em;
+    font-weight: bolder;
+    display: flex;
+}
+.rodape a, .logo1{
+    margin: 10px;
+}
+#logo1 {
+    border-radius: 50%;
+}
