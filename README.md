@@ -1,6 +1,12 @@
-<h1 align="center">1° Projeto Individual – Quem não é
-visto não é lembrado</h1>
+<h1 align="center">1° Projeto Individual – Quem não é visto não é lembrado</h1>
 
+<h6 align="center">Projeto realizado em parceria com   
+<a href="https://prefeitura.rio/desenvolvimento-economico-inovacao-simplificacao/programadores-cariocas-comemoram-formatura-na-cidade-das-artes/"        target="_blank">Prefeitura RJ </a> + 
+<a href="https://www.resilia.com.br/" target="_blank">Resilia</a> + 
+<a href="https://www.rj.senac.br/" target="_blank">Senac.</a> </h6>
+<a href="" target="_blank"></a>
+ 
+ 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
   <a href="#extras">Extras</a>&nbsp;&nbsp;&nbsp;
