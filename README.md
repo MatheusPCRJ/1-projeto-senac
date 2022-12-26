@@ -1,4 +1,5 @@
-<h1 align="center">1° Projeto Individual - Apresentação pessoal!</h1>
+<h1 align="center">1° Projeto Individual – Quem não é
+visto não é lembrado</h1>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
@@ -11,42 +12,38 @@
 
 
 <h2 id="sobre">Sobre 🔎</h2>
-  <h3>Projeto onde precisei desenvolver uma lógica para um banco de dados. Utilizando meus conhecimentos de Excel e a ferramenta online Miro(para montagem do Modelo) que contempla os requisitos abaixo:</h3>
+  <h3>Projeto onde precisei desenvolver uma página com HTML e CSS, como se fosse uma apresentação pessoal, a ideia era para nós conhecermos e, assim, se conectar mais uns com os outros. Requisitos abaixo:</h3>
 
 
 <h4> Contexo da situação: </h4>
+" É como diz o ditado: “Quem não é visto não é lembrado!”. <br>
+Para que vocês possam se conhecer e, assim, se <br>
+conectar mais uns com os outros, o primeiro projeto de <br>
+vocês é fazer uma apresentação pessoal! " <br>
 
 
 
 <h4> O que é para ser feito? </h4>
-r>
-⇨ 
-⇨
-⇨ 
-</p>
-
+⇨ Criar uma página de apresentação individual <br>
+⇨ Que tal falar um pouco sobre você e compilar isso em uma  <br>
+página utilizando HTML/CSS? Esse pode ser o primeiro <br>
+passo para a construção de um portfólio no futuro! <br>
+E aí já sabe, quem é visto é lembrado! <br>
 
 <h2 id="extras">Requisitos Extras 🔎</h2>
-- 
-
+- Não solicitado.
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
 - Incompleto.<br>
-Faltando explicação do projeto e Extras.
+Faltando deixar responsivo.
 <br>
 
 
 <h2 id="projeto">Projeto 📈</h2>
-
-<br>
-
-- Print do site: <br>
-<div align="center">
-  <img width="80%" src="" />
+<div align="Center">
+<img width="80%" src="https://user-images.githubusercontent.com/112782424/209578044-53594c43-c042-428e-a331-7e7e0f294a28.png" />
 </div>
-
-
-
+<br>
 
 
 <h2 id="ferramentas">Ferramentas utilizadas nesse projeto 📚</h2>
@@ -63,7 +60,7 @@ Faltando explicação do projeto e Extras.
   <a href="https://github.com/MatheusPCRJ" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="GitHub de MatheusPCRJ"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/matheus-gomes-780339211/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="LinkedIn de Matheus Gomes"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="mailto:ytallodev@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height="40em" title="Enviar E-mail"></a>
+  <a href="matheusdev1710@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height="40em" title="Enviar E-mail"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
   </div>
